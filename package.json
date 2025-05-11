@@ -1,5 +1,5 @@
 {
-  "name": "nepali-date-picker",
+  "name": "@management-and-computer-consultants/nepali-date-picker",
   "version": "2.0.3",
   "description": "Nepali Date Picker jQuery Plugin",
   "main": "dist/nepaliDatePicker.min.js",

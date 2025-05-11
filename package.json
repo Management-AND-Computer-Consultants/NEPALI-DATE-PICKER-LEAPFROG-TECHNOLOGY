@@ -1,15 +1,15 @@
 {
   "name": "nepali-date-picker",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Nepali Date Picker jQuery Plugin",
   "main": "dist/nepaliDatePicker.min.js",
-  "homepage": "https://github.com/leapfrogtechnology/nepali-date-picker",
+  "homepage": "https://github.com/Management-AND-Computer-Consultants/NEPALI-DATE-PICKER-LEAPFROG-TECHNOLOGY",
   "repository": {
     "type": "git",
-    "url": "git@github.com:leapfrogtechnology/nepali-date-picker.git"
+    "url": "git@github.com:Management-AND-Computer-Consultants/NEPALI-DATE-PICKER-LEAPFROG-TECHNOLOGY.git"
   },
   "authors": [
-    "Sanish Maharjan <sanishmaharjan@lftechnology.com>"
+    "Sanish Maharjan <sanishmaharjan@lftechnology.com> / updated by SAGNIK PAUL"
   ],
   "scripts": {
     "prettify": "prettier --write .",
